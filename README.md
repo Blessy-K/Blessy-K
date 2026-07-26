@@ -82,3 +82,30 @@ I believe in writing clean, maintainable, and production-ready code while contin
 
 </tr>
 </table>
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb,prisma" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma,linux" />
+</p>
