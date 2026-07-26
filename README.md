@@ -40,3 +40,45 @@
 ![](https://img.shields.io/github/stars/Blessy-K?style=for-the-badge&color=E9D5FF&labelColor=F8F4FF&logo=github&label=TOTAL+STARS)
 
 </div>
+---
+
+# About Me
+
+<table>
+<tr>
+
+<td width="65%">
+
+### Hi, I'm Blessy 👋
+
+I'm a **Full Stack Developer** and **AI Engineer** passionate about building scalable software, intelligent applications, and developer-friendly products.
+
+Currently pursuing **B.Tech in Computer Science & Engineering (Data Science)** at **ACE Engineering College**, I enjoy combining software engineering principles with Artificial Intelligence to solve real-world problems.
+
+My interests include:
+
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Backend Engineering
+- Cloud Computing
+- REST APIs & System Design
+- Open Source
+
+I believe in writing clean, maintainable, and production-ready code while continuously learning modern technologies.
+
+</td>
+
+<td width="35%">
+
+### Open To
+
+- Software Engineering Internships
+- Full Stack Development
+- AI/ML Engineering
+- Backend Development
+- Open Source Collaboration
+
+</td>
+
+</tr>
+</table>
