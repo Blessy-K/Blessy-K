@@ -109,3 +109,21 @@ I believe in writing clean, maintainable, and production-ready code while contin
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma,linux" />
 </p>
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma,linux" />
+</p>
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|---------|
+| Machine Learning | ⭐⭐⭐⭐☆ | Model development, feature engineering, evaluation |
+| Generative AI | ⭐⭐⭐⭐☆ | LLM APIs, prompt engineering, AI-powered applications |
+| Natural Language Processing | ⭐⭐⭐⭐☆ | Text analysis, summarization, semantic search |
+| Computer Vision | ⭐⭐⭐☆☆ | QR analysis, image processing fundamentals |
+| Data Analytics | ⭐⭐⭐⭐☆ | Pandas, NumPy, visualization, preprocessing |
+| Backend AI Integration | ⭐⭐⭐⭐☆ | Integrating AI models into scalable web applications |
+| API Development | ⭐⭐⭐⭐⭐ | REST APIs, authentication, production-ready backend services |
