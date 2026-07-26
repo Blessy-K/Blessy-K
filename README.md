@@ -127,3 +127,35 @@ I believe in writing clean, maintainable, and production-ready code while contin
 | Data Analytics | ⭐⭐⭐⭐☆ | Pandas, NumPy, visualization, preprocessing |
 | Backend AI Integration | ⭐⭐⭐⭐☆ | Integrating AI models into scalable web applications |
 | API Development | ⭐⭐⭐⭐⭐ | REST APIs, authentication, production-ready backend services |
+---
+
+# Featured Projects
+
+<details open>
+<summary><strong>🤖 AI Powered Research Analyzer</strong></summary>
+
+### Overview
+
+An AI-powered research assistant that analyzes documents, extracts insights, summarizes content, and improves research productivity using Large Language Models.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | React, Node.js, Express, AI APIs, JavaScript |
+| **Architecture** | Full Stack Web Application |
+| **Performance** | Fast document analysis with optimized API calls |
+| **Security** | Input validation, secure API handling |
+| **Impact** | Simplifies research and improves productivity |
+
+**Repository**
+
+🔗 https://github.com/Blessy-K/AI-Powered-Research-Analyzer
+
+### Highlights
+
+- AI-assisted document analysis
+- Intelligent content summarization
+- Clean and responsive UI
+- Modular backend architecture
+- Scalable application design
+
+</details>
