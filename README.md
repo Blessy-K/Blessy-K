@@ -31,5 +31,12 @@
 <a href="https://github.com/Blessy-K">
 <img src="https://img.shields.io/badge/GitHub-F8F4FF?style=for-the-badge&logo=github&logoColor=6D28D9&color=C4B5FD"/>
 </a>
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=Blessy-K&style=for-the-badge&color=C4B5FD&label=PROFILE+VIEWS)
+
+![](https://img.shields.io/github/followers/Blessy-K?style=for-the-badge&color=D8B4FE&labelColor=F8F4FF&logo=github&label=FOLLOWERS)
+
+![](https://img.shields.io/github/stars/Blessy-K?style=for-the-badge&color=E9D5FF&labelColor=F8F4FF&logo=github&label=TOTAL+STARS)
 
 </div>
