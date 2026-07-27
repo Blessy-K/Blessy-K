@@ -319,3 +319,56 @@ Designed and developed multiple full-stack and AI-based applications focused on 
 **Skills**
 
 `Full Stack Development` `Artificial Intelligence` `Machine Learning` `Backend Development` `System Design` `Database Design`
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:------------|:--------|
+| 🏆 AI Engineering Projects | Built and deployed multiple AI-powered applications using LLM APIs and modern web technologies. |
+| 💻 Full Stack Development | Developed scalable backend APIs and responsive full-stack applications using modern frameworks. |
+| 🌱 Continuous Learning | Actively strengthening skills in Data Structures, System Design, Cloud Computing, and AI Engineering. |
+| 🤝 Open Source | Regularly maintain and improve personal GitHub repositories while exploring open-source contributions. |
+| 🚀 Engineering Mindset | Focused on writing clean, scalable, and production-ready software with best engineering practices. |
+
+</div>
+---
+
+# Certifications
+
+## ☁️ AWS Academy
+
+![AWS Academy](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🌐 Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 🤖 UiPath Academy
+
+![UiPath](https://img.shields.io/badge/UiPath-Automation-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+---
+
+## 🎓 Wadhwani Foundation
+
+![Customer Centricity](https://img.shields.io/badge/Customer_Centricity-Certified-7C3AED?style=for-the-badge)
+
+![Interpersonal Skills](https://img.shields.io/badge/Interpersonal_Skills-Certified-A78BFA?style=for-the-badge)
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Blessy_10/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Blessy__10-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
