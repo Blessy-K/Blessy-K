@@ -217,3 +217,105 @@ A production-ready URL shortening service built with a scalable backend architec
 - Production-ready code organization
 
 </details>
+<details>
+<summary><strong>📊 AI Product Intelligence System</strong></summary>
+
+### Overview
+
+An AI-powered platform that analyzes products, extracts actionable insights, and generates intelligent summaries to support product research, market analysis, and business decision-making.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | React, Node.js, Express.js, AI APIs, JavaScript |
+| **Architecture** | AI-Powered Full Stack Web Application |
+| **Performance** | Optimized data processing and AI response generation |
+| **Security** | Secure API integration and robust input validation |
+| **Impact** | Enables faster product research and data-driven decision making |
+
+**Repository**
+
+🔗 https://github.com/Blessy-K/ai-product-intelligence-system
+
+### Highlights
+
+- AI-powered product analysis
+- Intelligent insight generation
+- Responsive and modern UI
+- RESTful backend services
+- Modular and scalable architecture
+- Business-oriented analytics workflow
+
+</details>
+<details>
+<summary><strong>🎯 AI Candidate Ranking System</strong></summary>
+
+### Overview
+
+An AI-assisted recruitment platform that evaluates candidate profiles, ranks resumes based on job requirements, and helps recruiters streamline the hiring process through intelligent candidate scoring.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | React, Node.js, Express.js, AI APIs, JavaScript |
+| **Architecture** | AI-Powered Recruitment Platform |
+| **Performance** | Efficient resume processing with optimized ranking algorithms |
+| **Security** | Secure handling of candidate data with validated API requests |
+| **Impact** | Reduces manual screening effort and improves hiring efficiency |
+
+**Repository**
+
+🔗 https://github.com/Blessy-K/redrob-ai-candidate-ranking
+
+### Highlights
+
+- AI-assisted resume analysis
+- Intelligent candidate ranking
+- Job-to-candidate matching
+- Recruiter-friendly dashboard
+- Modular full-stack architecture
+- Scalable API design
+
+</details>
+---
+
+# Experience
+
+## AI & Full Stack Developer Intern (Bootcamp)
+
+**CAW Studios AI Internship Bootcamp**  
+**May 2026 – Present**
+
+Worked on full-stack software development, backend engineering, API development, database design, and AI-powered applications through hands-on engineering projects.
+
+### Responsibilities
+
+- Developed production-ready backend APIs
+- Designed scalable database schemas using PostgreSQL & Prisma
+- Built AI-powered web applications
+- Implemented authentication and RESTful services
+- Practiced software engineering best practices
+- Worked with Git and GitHub for version control
+
+**Skills**
+
+`Java` `Node.js` `Express.js` `React` `PostgreSQL` `Prisma` `REST APIs` `Git` `GitHub` `AI APIs`
+
+---
+
+## Software Engineering Projects
+
+**Personal & Academic Projects**  
+**2024 – Present**
+
+Designed and developed multiple full-stack and AI-based applications focused on solving real-world problems.
+
+### Highlights
+
+- AI Powered Research Analyzer
+- Unified QR & URL Phishing Detection
+- URL Shortener API
+- AI Product Intelligence System
+- AI Candidate Ranking System
+
+**Skills**
+
+`Full Stack Development` `Artificial Intelligence` `Machine Learning` `Backend Development` `System Design` `Database Design`
