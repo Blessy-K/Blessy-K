@@ -412,3 +412,69 @@ Designed and developed multiple full-stack and AI-based applications focused on 
 </div>
 
 
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced Backend Development
+  - System Design
+  - Cloud Computing (AWS)
+  - Generative AI & LLMs
+
+building:
+  - AI-Powered Developer Tools
+  - Scalable Full Stack Applications
+  - Open Source Projects
+
+exploring:
+  - Microservices
+  - Docker & Kubernetes
+  - Agentic AI
+  - DevOps
+
+open_to:
+  - Software Engineering Internships
+  - Full Stack Developer Roles
+  - AI/ML Engineering Opportunities
+  - Open Source Collaboration
+```
+
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:blessy4610@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/blessy-a66144290/">
+  <img src="https://img.shields.io/badge/LinkedIn-Blessy_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Blessy-K">
+  <img src="https://img.shields.io/badge/GitHub-Blessy--K-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://blessyk.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+> *"Engineering meaningful software through curiosity, continuous learning, and clean code."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:F8F4FF,30:E9D5FF,60:D8B4FE,100:A78BFA"/>
+
+</div>
+
+
