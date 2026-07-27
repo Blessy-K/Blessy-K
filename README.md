@@ -388,3 +388,27 @@ Designed and developed multiple full-stack and AI-based applications focused on 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessy-K&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=CBD5E1"/>
 
 </div>
+
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Blessy-K&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Blessy-K&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=C4B5FD&point=D8B4FE"/>
+
+</div>
+
+
