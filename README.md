@@ -159,3 +159,31 @@ An AI-powered research assistant that analyzes documents, extracts insights, sum
 - Scalable application design
 
 </details>
+<details>
+<summary><strong>🛡️ Unified QR & URL Phishing Detection</strong></summary>
+
+### Overview
+
+An intelligent cybersecurity application that detects malicious URLs and phishing QR codes using machine learning techniques and heuristic analysis to improve online safety.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python, Streamlit, Scikit-learn, Pandas |
+| **Architecture** | Machine Learning Web Application |
+| **Performance** | Real-time phishing prediction with low latency |
+| **Security** | Feature-based threat detection and input validation |
+| **Impact** | Helps users identify phishing attacks before interacting with malicious content |
+
+**Repository**
+
+🔗 https://github.com/Blessy-K/Unified-QR-and-URL-Phishing-Detection
+
+### Highlights
+
+- QR code phishing detection
+- URL risk analysis
+- Machine learning prediction model
+- Interactive Streamlit dashboard
+- Modular and extensible architecture
+
+</details>
