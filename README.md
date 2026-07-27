@@ -187,3 +187,33 @@ An intelligent cybersecurity application that detects malicious URLs and phishin
 - Modular and extensible architecture
 
 </details>
+<details>
+<summary><strong>🔗 URL Shortener API</strong></summary>
+
+### Overview
+
+A production-ready URL shortening service built with a scalable backend architecture. The API supports short URL generation, redirection, custom aliases, and efficient database operations.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Node.js, Express.js, PostgreSQL, Prisma ORM |
+| **Architecture** | RESTful Backend API |
+| **Performance** | Optimized database queries with efficient URL lookups |
+| **Security** | Request validation, error handling, secure database interactions |
+| **Impact** | Demonstrates backend engineering, API design, and database optimization skills |
+
+**Repository**
+
+🔗 https://github.com/Blessy-K/url-shortener-api
+
+### Highlights
+
+- RESTful API architecture
+- PostgreSQL with Prisma ORM
+- Custom short URL generation
+- Redirect endpoint with fast lookups
+- Modular project structure
+- Environment-based configuration
+- Production-ready code organization
+
+</details>
