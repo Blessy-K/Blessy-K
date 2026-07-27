@@ -109,12 +109,7 @@ I believe in writing clean, maintainable, and production-ready code while contin
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma,linux" />
 </p>
-### Cloud, DevOps & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma,linux" />
-</p>
----
 
 # AI / ML Expertise
 
@@ -370,5 +365,26 @@ Designed and developed multiple full-stack and AI-based applications focused on 
 <a href="https://leetcode.com/u/Blessy_10/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Blessy__10-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
+</div>
+
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blessy-K&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=C4B5FD&text_color=CBD5E1&ring_color=A78BFA"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy-K&theme=transparent&hide_border=true&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessy-K&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=CBD5E1"/>
 
 </div>
